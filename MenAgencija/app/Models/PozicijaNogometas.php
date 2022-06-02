@@ -5,13 +5,15 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Nogometas extends Model
+class PozicijaNogometas extends Model
 {
     use HasFactory;
-    protected $table = 'Nogometas';
-    protected $primaryKey = 'nogometas_id';
+    protected $table = 'Pozicija_nogometas';
+    protected $primaryKey = 'pozicija_nogometas_id';
     protected $fillable = [
-        'Ime','Prezime','Visina','Vrijednost','Datum_rodjenja','nacionalnost_fk','noga_fk'
+        'pozicija_fk',
+        'nogometas_fk'
     ];
     public $timestamps = false;
 }
+
