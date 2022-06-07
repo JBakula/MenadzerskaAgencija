@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebea"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14537"
+  },
+  "agencija_id": {
+    "$oid": "628c24bda63b862f02a14519"
+  },
+  "Postotak_od_transfera": 10.5,
+  "Postotak_place": 5.5
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebeb"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14532"
+  },
+  "agencija_id": {
+    "$oid": "628b9bbd96c12e06c969b399"
+  },
+  "Postotak_od_transfera": 9,
+  "Postotak_place": 6.4
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebec"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14534"
+  },
+  "agencija_id": {
+    "$oid": "628b9bbd96c12e06c969b399"
+  },
+  "Postotak_od_transfera": 10,
+  "Postotak_place": 3.5
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebed"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14536"
+  },
+  "agencija_id": {
+    "$oid": "628b9bbd96c12e06c969b399"
+  },
+  "Postotak_od_transfera": 15.5,
+  "Postotak_place": 4.5
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebee"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14533"
+  },
+  "agencija_id": {
+    "$oid": "628b9bbd96c12e06c969b399"
+  },
+  "Postotak_od_transfera": 7.6,
+  "Postotak_place": 6.2
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebef"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14535"
+  },
+  "agencija_id": {
+    "$oid": "628b9bbd96c12e06c969b399"
+  },
+  "Postotak_od_transfera": 12.2,
+  "Postotak_place": 13.4
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebf0"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14538"
+  },
+  "agencija_id": {
+    "$oid": "628ca4ff4976cf43c4b7ebdc"
+  },
+  "Postotak_od_transfera": 11.2,
+  "Postotak_place": 3.5
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebf1"
+  },
+  "nogometas_id": {
+    "$oid": "628b977d96c12e06c969b396"
+  },
+  "agencija_id": {
+    "$oid": "628c2456a63b862f02a14518"
+  },
+  "Postotak_od_transfera": 10,
+  "Postotak_place": 6.5
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebf2"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a1452f"
+  },
+  "agencija_id": {
+    "$oid": "628c2456a63b862f02a14518"
+  },
+  "Postotak_od_transfera": 7.5,
+  "Postotak_place": 7.5
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebf3"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14530"
+  },
+  "agencija_id": {
+    "$oid": "628c2456a63b862f02a14518"
+  },
+  "Postotak_od_transfera": 8.5,
+  "Postotak_place": 8
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebf4"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a1453a"
+  },
+  "agencija_id": {
+    "$oid": "628c2456a63b862f02a14518"
+  },
+  "Postotak_od_transfera": 4.5,
+  "Postotak_place": 12
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebf5"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14539"
+  },
+  "agencija_id": {
+    "$oid": "628c2456a63b862f02a14518"
+  },
+  "Postotak_od_transfera": 5.6,
+  "Postotak_place": 3.2
+},{
+  "_id": {
+    "$oid": "628cab074976cf43c4b7ebf6"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14531"
+  },
+  "agencija_id": {
+    "$oid": "628c2456a63b862f02a14518"
+  },
+  "Postotak_od_transfera": 12.5,
+  "Postotak_place": 12.4
+}]

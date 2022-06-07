@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebf7"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14537"
+  },
+  "klub_id": {
+    "$oid": "628c2bf2a63b862f02a14525"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1530316800000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1688083200000"
+    }
+  },
+  "Godisnja_placa": 8,
+  "Placena_odsteta": 0
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebf8"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14532"
+  },
+  "klub_id": {
+    "$oid": "628c2a75a63b862f02a14522"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1625011200000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1814313600000"
+    }
+  },
+  "Godisnja_placa": 18,
+  "Placena_odsteta": 68
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebf9"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14534"
+  },
+  "klub_id": {
+    "$oid": "628c2bf2a63b862f02a14524"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1561852800000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1719705600000"
+    }
+  },
+  "Godisnja_placa": 6,
+  "Placena_odsteta": 29.5
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebfa"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14536"
+  },
+  "klub_id": {
+    "$oid": "628c2ee7a63b862f02a1452e"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1593475200000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1688083200000"
+    }
+  },
+  "Godisnja_placa": 7.5,
+  "Placena_odsteta": 15
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebfb"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14533"
+  },
+  "klub_id": {
+    "$oid": "628c2b71a63b862f02a14523"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1625011200000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1782777600000"
+    }
+  },
+  "Godisnja_placa": 12,
+  "Placena_odsteta": 45.5
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebfc"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14535"
+  },
+  "klub_id": {
+    "$oid": "628c2ee7a63b862f02a1452d"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1593475200000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1656547200000"
+    }
+  },
+  "Godisnja_placa": 8,
+  "Placena_odsteta": 0
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebfd"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14538"
+  },
+  "klub_id": {
+    "$oid": "628c2e1aa63b862f02a1452c"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1530316800000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1751241600000"
+    }
+  },
+  "Godisnja_placa": 2,
+  "Placena_odsteta": 6
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebfe"
+  },
+  "nogometas_id": {
+    "$oid": "628b977d96c12e06c969b396"
+  },
+  "klub_id": {
+    "$oid": "628c28e3a63b862f02a1451f"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1625011200000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1719705600000"
+    }
+  },
+  "Godisnja_placa": 0.8,
+  "Placena_odsteta": 0
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ebff"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a1452f"
+  },
+  "klub_id": {
+    "$oid": "628c2bf2a63b862f02a14526"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1593475200000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1751241600000"
+    }
+  },
+  "Godisnja_placa": 12,
+  "Placena_odsteta": 76.2
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ec00"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14530"
+  },
+  "klub_id": {
+    "$oid": "628c2bf2a63b862f02a14526"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1498780800000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1656547200000"
+    }
+  },
+  "Godisnja_placa": 8.5,
+  "Placena_odsteta": 40
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ec01"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a1453a"
+  },
+  "klub_id": {
+    "$oid": "628c2bf2a63b862f02a14527"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1561852800000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1688083200000"
+    }
+  },
+  "Godisnja_placa": 7,
+  "Placena_odsteta": 26.3
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ec02"
+  },
+  "nogometas_id": {
+    "$oid": "628c37dca63b862f02a14539"
+  },
+  "klub_id": {
+    "$oid": "628c28e3a63b862f02a1451f"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1561852800000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1688083200000"
+    }
+  },
+  "Godisnja_placa": 0.25,
+  "Placena_odsteta": 0.8
+},{
+  "_id": {
+    "$oid": "628cb5924976cf43c4b7ec03"
+  },
+  "nogometas_id": {
+    "$oid": "628c3547a63b862f02a14531"
+  },
+  "klub_id": {
+    "$oid": "628c2a75a63b862f02a14520"
+  },
+  "Datum_potpisa": {
+    "$date": {
+      "$numberLong": "1625011200000"
+    }
+  },
+  "Datum_zavrsetka": {
+    "$date": {
+      "$numberLong": "1782777600000"
+    }
+  },
+  "Godisnja_placa": 20,
+  "Placena_odsteta": 113
+}]

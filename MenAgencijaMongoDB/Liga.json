@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "628c26b9a63b862f02a1451a"
+  },
+  "Naziv_lige": "1.HNL",
+  "Rang": 1,
+  "Država": "Hrvatska"
+},{
+  "_id": {
+    "$oid": "628c26b9a63b862f02a1451b"
+  },
+  "Naziv_lige": "Barclay's Premier League",
+  "Rang": 1,
+  "Država": "Engleska"
+},{
+  "_id": {
+    "$oid": "628c26b9a63b862f02a1451c"
+  },
+  "Naziv_lige": "LaLiga",
+  "Rang": 1,
+  "Država": "Španjolska"
+},{
+  "_id": {
+    "$oid": "628c26b9a63b862f02a1451d"
+  },
+  "Naziv_lige": "Ligue 1",
+  "Rang": 1,
+  "Država": "Francuska"
+},{
+  "_id": {
+    "$oid": "628c26b9a63b862f02a1451e"
+  },
+  "Naziv_lige": "Serie A",
+  "Rang": 1,
+  "Država": "Italija"
+},{
+  "_id": {
+    "$oid": "628c2d89a63b862f02a14528"
+  },
+  "Naziv_lige": "Bundesliga",
+  "Rang": 1,
+  "Država": "Njemacka"
+},{
+  "_id": {
+    "$oid": "628c2d89a63b862f02a14529"
+  },
+  "Naziv_lige": "Primeira Liga",
+  "Rang": 1,
+  "Država": "Portugal"
+},{
+  "_id": {
+    "$oid": "628c2d89a63b862f02a1452a"
+  },
+  "Naziv_lige": "Premier Liga",
+  "Rang": 1,
+  "Država": "Rusija"
+}]

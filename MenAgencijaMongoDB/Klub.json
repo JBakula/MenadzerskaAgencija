@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "628c28e3a63b862f02a1451f"
+  },
+  "Naziv_kluba": "Hajduk",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451a"
+  }
+},{
+  "_id": {
+    "$oid": "628c2a75a63b862f02a14520"
+  },
+  "Naziv_kluba": "Chelsea",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451b"
+  }
+},{
+  "_id": {
+    "$oid": "628c2a75a63b862f02a14521"
+  },
+  "Naziv_kluba": "Manchester United",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451b"
+  }
+},{
+  "_id": {
+    "$oid": "628c2a75a63b862f02a14522"
+  },
+  "Naziv_kluba": "Manchester City",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451b"
+  }
+},{
+  "_id": {
+    "$oid": "628c2b71a63b862f02a14523"
+  },
+  "Naziv_kluba": "Liverpool",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451b"
+  }
+},{
+  "_id": {
+    "$oid": "628c2bf2a63b862f02a14524"
+  },
+  "Naziv_kluba": "Milan",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451e"
+  }
+},{
+  "_id": {
+    "$oid": "628c2bf2a63b862f02a14525"
+  },
+  "Naziv_kluba": "Inter",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451e"
+  }
+},{
+  "_id": {
+    "$oid": "628c2bf2a63b862f02a14526"
+  },
+  "Naziv_kluba": "Juventus",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451e"
+  }
+},{
+  "_id": {
+    "$oid": "628c2bf2a63b862f02a14527"
+  },
+  "Naziv_kluba": "Napoli",
+  "id_lige": {
+    "$oid": "628c26b9a63b862f02a1451e"
+  }
+},{
+  "_id": {
+    "$oid": "628c2e1aa63b862f02a1452b"
+  },
+  "Naziv_kluba": "Bayern",
+  "id_lige": {
+    "$oid": "628c2d89a63b862f02a14528"
+  }
+},{
+  "_id": {
+    "$oid": "628c2e1aa63b862f02a1452c"
+  },
+  "Naziv_kluba": "Stuttgart",
+  "id_lige": {
+    "$oid": "628c2d89a63b862f02a14528"
+  }
+},{
+  "_id": {
+    "$oid": "628c2ee7a63b862f02a1452d"
+  },
+  "Naziv_kluba": "Zenit",
+  "id_lige": {
+    "$oid": "628c2d89a63b862f02a1452a"
+  }
+},{
+  "_id": {
+    "$oid": "628c2ee7a63b862f02a1452e"
+  },
+  "Naziv_kluba": "Benfica",
+  "id_lige": {
+    "$oid": "628c2d89a63b862f02a14529"
+  }
+}]

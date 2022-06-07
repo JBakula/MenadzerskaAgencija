@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "628b9bbd96c12e06c969b399"
+  },
+  "Ime_vlasnika": "Jorge Mendes",
+  "Kontakt": null,
+  "Naziv_agencije": "Gestifute "
+},{
+  "_id": {
+    "$oid": "628c2456a63b862f02a14518"
+  },
+  "Naziv_agencije": "P&P Sport Management S.A.M.",
+  "Ime_vlasnika": "Federico Pastorello",
+  "Email": "sportman@sportmanagement.mc",
+  "Kontakt": null,
+  "Naziv_agencija": "P&P Sport Management S.A.M. "
+},{
+  "_id": {
+    "$oid": "628c24bda63b862f02a14519"
+  },
+  "Naziv_agencije": "Mino Raiola",
+  "Ime_vlasnika": "Mino Raiola",
+  "Email": "null",
+  "Kontakt": null
+},{
+  "_id": {
+    "$oid": "628ca4ff4976cf43c4b7ebdc"
+  },
+  "Naziv_agencije": "LIAN Sports Group",
+  "Vlasnik": null,
+  "Email": "ilmi@liansports.com"
+}]

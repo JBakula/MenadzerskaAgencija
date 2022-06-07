@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "628b977d96c12e06c969b396"
+  },
+  "Ime": "Marko",
+  "Prezime": "Livaja",
+  "Visina": {
+    "$numberDecimal": "1.84"
+  },
+  "Vrijednost": {
+    "$numberDecimal": "6.5"
+  },
+  "Datum_rodjenja": {
+    "$date": {
+      "$numberLong": "696801600000"
+    }
+  },
+  "Nacionalnost": "Hrvatska",
+  "Noga": "desna",
+  "Pozicija": [
+    "lijevo krilo",
+    "centarfor",
+    "poluspica"
+  ]
+},{
+  "_id": {
+    "$oid": "628c3547a63b862f02a1452f"
+  },
+  "Ime": "Arthur",
+  "Prezime": "Melo",
+  "Visina": 1.72,
+  "Vrijednost": 19.5,
+  "Nacionalnost": "Brazil",
+  "Noga": "lijeva",
+  "Pozicija": [
+    "defanzivni vezni",
+    "centralni vezni",
+    "ofanzivni vezni"
+  ]
+},{
+  "_id": {
+    "$oid": "628c3547a63b862f02a14530"
+  },
+  "Ime": "Federico",
+  "Prezime": "Bernardeschi",
+  "Vrijednost": 15.5,
+  "Nacionalnost": "Italija",
+  "Noga": "lijeva",
+  "Pozicija": [
+    "lijevo krilo",
+    "poluspica",
+    "desno krilo"
+  ]
+},{
+  "_id": {
+    "$oid": "628c3547a63b862f02a14531"
+  },
+  "Ime": "Romelu",
+  "Prezime": "Lukaku",
+  "Visina": 1.91,
+  "Vrijednost": 85.5,
+  "Nacionalnost": "Belgija",
+  "Noga": "lijeva",
+  "Pozicija": [
+    "centarfor"
+  ]
+},{
+  "_id": {
+    "$oid": "628c3547a63b862f02a14532"
+  },
+  "Ime": "Ruben",
+  "Prezime": "Dias",
+  "Vrijednost": 75.5,
+  "Nacionalnost": "Portugal",
+  "Noga": "desna",
+  "Pozicija": [
+    "stoper"
+  ]
+},{
+  "_id": {
+    "$oid": "628c3547a63b862f02a14533"
+  },
+  "Ime": "Fabinho",
+  "Visina": 1.86,
+  "Vrijednost": 60,
+  "Nacionalnost": "Brazil",
+  "Noga": "desna",
+  "Pozicija": [
+    "defanzivni vezni",
+    "centralni vezni"
+  ],
+  "Prezime": null
+},{
+  "_id": {
+    "$oid": "628c3547a63b862f02a14534"
+  },
+  "Ime": "Rafael",
+  "Prezime": "Leao",
+  "Visina": 1.72,
+  "Vrijednost": 19.5,
+  "Datum_rodjenja": {
+    "$date": {
+      "$numberLong": "1983"
+    }
+  },
+  "Nacionalnost": "Portugal",
+  "Noga": "desna",
+  "Pozicija": [
+    "lijevo krilo",
+    "centarfor"
+  ]
+},{
+  "_id": {
+    "$oid": "628c37dca63b862f02a14535"
+  },
+  "Ime": "Artem",
+  "Prezime": "Dzyuba",
+  "Visina": 1.96,
+  "Vrijednost": 8.7,
+  "Datum_rodjenja": {
+    "$date": {
+      "$numberLong": "1972"
+    }
+  },
+  "Nacionalnost": "Rusija",
+  "Noga": "desna",
+  "Pozicija": [
+    "centarfor"
+  ]
+},{
+  "_id": {
+    "$oid": "628c37dca63b862f02a14536"
+  },
+  "Ime": "Nicolas",
+  "Prezime": "Otamendi",
+  "Visina": 1.83,
+  "Vrijednost": 4.5,
+  "Datum_rodjenja": null,
+  "Nacionalnost": "Argentina",
+  "Noga": "desna",
+  "Pozicija": [
+    "stoper"
+  ]
+},{
+  "_id": {
+    "$oid": "628c37dca63b862f02a14537"
+  },
+  "Ime": "Stefan",
+  "Prezime": "De Vrij",
+  "Visina": 1.89,
+  "Vrijednost": 35,
+  "Datum_rodjenja": {
+    "$date": {
+      "$numberLong": "1976"
+    }
+  },
+  "Nacionalnost": "Nizozemska",
+  "Noga": "desna",
+  "Pozicija": [
+    "stoper"
+  ]
+},{
+  "_id": {
+    "$oid": "628c37dca63b862f02a14538"
+  },
+  "Ime": "Borna",
+  "Prezime": "Sosa",
+  "Visina": 1.87,
+  "Vrijednost": 20,
+  "Datum_rodjenja": null,
+  "Nacionalnost": "Hrvatska",
+  "Noga": "lijeva",
+  "Pozicija": [
+    "lijevi bek",
+    "lijevo krilo"
+  ]
+},{
+  "_id": {
+    "$oid": "628c37dca63b862f02a14539"
+  },
+  "Ime": "David",
+  "Prezime": "Colina",
+  "Visina": 1.82,
+  "Vrijednost": 1.6,
+  "Datum_rodjenja": null,
+  "Nacionalnost": "Hrvatska",
+  "Noga": "lijeva",
+  "Pozicija": [
+    "lijevi bek",
+    "lijevo krilo",
+    "centralni vezni"
+  ]
+},{
+  "_id": {
+    "$oid": "628c37dca63b862f02a1453a"
+  },
+  "Ime": "Alex",
+  "Prezime": "Meret",
+  "Visina": 1.9,
+  "Vrijednost": 12.5,
+  "Datum_rodjenja": {
+    "$date": {
+      "$numberLong": "1981"
+    }
+  },
+  "Nacionalnost": "Italija",
+  "Noga": "lijeva",
+  "Pozicija": [
+    "golman"
+  ]
+}]
