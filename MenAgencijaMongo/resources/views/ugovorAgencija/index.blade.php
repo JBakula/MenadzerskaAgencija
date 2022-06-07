@@ -71,7 +71,7 @@
                             <td
                                 class="px-4 py-8 border-t border-b border-gray-300 text-lg"
                             >
-                                {{$item->Postotak_od_godisnje_place}} %
+                                {{$item->Postotak_od_transfera}} %
                             </td>
                             <td
                                 class="px-4 py-8 border-t border-b border-gray-300 text-lg"
@@ -107,9 +107,9 @@
         <a href="{{route('pocetna')}}" class="inline-block text-success py-2 px-4 mt-4 ml-4 "
                 ><i class="fa-solid fa-arrow-left"></i> Povratak
             </a>
-        <div class="mt-6 p-4">
+        {{-- <div class="mt-6 p-4">
             {{$Nogometasi->links()}}
-        </div>
+        </div> --}}
     </div>
     
 </div>
