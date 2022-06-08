@@ -75,39 +75,54 @@ class UgovorAgencijaController extends Controller
         return redirect()->route('prikazKlijenata',$id_agencije)->with('poruka','Ugovor s klijentom je uspješno izbrisan');
     }
 
-    // public function edit($id){
-    //     $ugovor = Ugovor_nogometas_agencija::
-    //         ->join('Nogometas','Ugovor_nogometas_agencija.nogometas_fk','Nogometas.nogometas_id')
-    //         ->where('ugovor_nogometas_agencija_id','=',$id)
-    //         ->first();
-    //     $nogometasi = DB::table('Nogometas')
-    //         ->whereNotIn('nogometas_id',function ($query) {
-    //             $query->select('nogometas_fk')
-    //                   ->from('Ugovor_nogometas_agencija');   
-    //         })
-    //         ->get();
-    //     $agencija = $ugovor->agencija_fk;
-    //     $data = array(
-    //         'nogometasi'=> $nogometasi,
-    //         'agencija_id'=>$agencija,
-    //         'ugovor'=>$ugovor
-            
-    //     );
-    //     return view('ugovorAgencija.edit',$data);
-    // }
+    public function edit($id){
+        $ugovor = Ugovor_nogometas_agencija::where('_id','=',$id)
+            ->first();
 
-    // public function update(Request $request,$id){
-    //     $ugovor = UgovorAgencija::find($id);
-    //     $agencija_id = $ugovor->agencija_fk;
-    //     $userInput = $request->validate([
-    //         'nogometas_fk' => 'required|integer',
-    //         'agencija_fk' => 'required|integer',
-    //         'Postotak_od_transfera' => 'required|numeric|between:0,99.99',
-    //         'Postotak_od_godisnje_place'=>'required|numeric|between:0,99.99'
-    //     ]);
+        $nogometasi = Nogometas::get();
+        $ugovorAgencija = Ugovor_nogometas_agencija::get();
+        $niz = [];
+        $ugA_id = "";
+        foreach($nogometasi as $nogometas){
+            $istina = 1;
+            $nog_id = $nogometas->_id;
+            foreach($ugovorAgencija as $ugA){
+                $pom = $ugA->nogometas_id;
+                foreach($pom as $ua){
+                    $ugA_id = $ua;
+                }
 
-    //     $ugovor->update($userInput);
-    //     return back()->with('poruka','Ugovor je uspješno ažuriran');
+                if($nog_id === $ugA_id){
+                    $istina = 0;
+                }
+            }
+            if($istina){
+                array_push($niz, $nogometas);
+            }
+        }
+        $agencija = $ugovor->agencija_id;
+        $data = array(
+            'nogometasi'=> $niz,
+            'agencija_id'=>$agencija,
+            'ugovor'=>$ugovor
+        );
+        return view('ugovorAgencija.edit',$data);
+    }
+
+    public function update(Request $request,$id){
+        $ugovor = Ugovor_nogometas_agencija::find($id);
+        $agencija_id = $ugovor->agencija_id;
+        dd($request);
+        $userInput = $request->validate([
+            'nogometas_id' => 'required',
+            'agencija_id' => 'required',
+            'Postotak_od_transfera' => 'required|numeric|between:0,99.99',
+            'Postotak_od_godisnje_place'=>'required|numeric|between:0,99.99'
+        ]);
+
+        dd($userInput);
+        $ugovor->update($userInput);
+        return back()->with('poruka','Ugovor je uspješno ažuriran');
         
-    // }
+    }
 }

@@ -52,16 +52,16 @@
                             <td
                                 class="px-4 py-8 border-t border-b border-gray-300 text-lg"
                             >
-                                <a href="#">
+                                <p>
                                     {{$item->nogometas->Ime}}
-                                </a>
+                                </p>
                             </td>
                             <td
                                 class="px-4 py-8 border-t border-b border-gray-300 text-lg"
                             >
-                                <a href="#">
+                                <p>
                                     {{$item->nogometas->Prezime}}
-                                </a>
+                                </p>
                             </td>
                             <td
                                 class="px-4 py-8 border-t border-b border-gray-300 text-lg"
@@ -71,7 +71,7 @@
                             <td
                                 class="px-4 py-8 border-t border-b border-gray-300 text-lg"
                             >
-                                {{$item->Postotak_od_transfera}} %
+                                {{$item->Postotak_place}} %
                             </td>
                             <td
                                 class="px-4 py-8 border-t border-b border-gray-300 text-lg"
